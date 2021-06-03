@@ -31,6 +31,9 @@ github_username:  noprofessional
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: pmarsceill/just-the-docs
 
 # Exclude from processing.
 # The following items will not be processed, by default.
