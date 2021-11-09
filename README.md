@@ -73,7 +73,7 @@ $$
 
 ![Receiver Reference Time Report Block](<.gitbook/assets/image (4).png>)
 
-**DLRR Report Block **用于代替 RR 中的 LSR 和 DLSR，不过由于请求不是SR所以是 LRR 和 DLRR (RR 理解成** Receiver Reference Time Report Block** 即上述block)
+**DLRR Report Block **中 LRR 和 DLRR（RR 可以理解成** Receiver Reference Time Report Block**） 用于代替 RR (receiver report) 中的 LSR 和 DLSR。
 
 ![DLRR Report Block](<.gitbook/assets/image (3).png>)
 
